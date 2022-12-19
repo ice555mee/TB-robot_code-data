@@ -2,6 +2,11 @@
 TB robot classifiaction model was built based on ResNet50 architecture and trained with our datasets to be used for CV and GCD classification.
 This repository is composed of 3 main folders as described in Files introduction.
 
+
+![Fig 3](https://user-images.githubusercontent.com/120438949/208367910-d8d669c2-214c-45f7-8418-74fb70524f4d.png)
+
+
+
 ## Files introduction
 
 - CV Classification
