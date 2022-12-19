@@ -3,9 +3,13 @@ TB robot classifiaction model was built based on ResNet50 architecture and train
 This repository is composed of 3 main folders as described in Files introduction.
 
 
-![Fig 3](https://user-images.githubusercontent.com/120438949/208367910-d8d669c2-214c-45f7-8418-74fb70524f4d.png)
+![Fig 3](https://user-images.githubusercontent.com/120438949/208368176-1fccebe0-250b-4e53-b4f6-4fc655d12c06.png)
 
-
+Figure 3 | (a) CV and GCD datasets obtained after classification by Process 1, splitting them
+into training and validation datasets for further GCD and CV classification in Process 2 and
+Process 3, respectively. (b) The outputs from Process 3 are used in this final classification step
+to obtain the pseudocapacitive tendency based on percentage confidence rating of the
+prediction. (c) Table of processes, inputs and outputs performed/used to obtain these results.
 
 ## Files introduction
 
@@ -13,7 +17,7 @@ This repository is composed of 3 main folders as described in Files introduction
 
 -It includes the classification codes/models in Process 3, 4, and 5 as well as the training datasets.
 
--For the dataset folders, it was the label data into 4 catagoried (50% battery and 100% battery for Process 4) (50% pseudocapacitor and 100% pseudocapacitor for Process 5) according to the classification processes described in the publication.
+-For the dataset folders, it was the label data into 4 catagoried (50% battery and 100% battery for Process 4) (50% pseudocapacitor and 100% pseudocapacitor for Process 5) according to the classification processes described in the publication (Figure 3).
 
 - GCD Classification
 
