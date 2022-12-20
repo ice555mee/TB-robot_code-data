@@ -25,4 +25,4 @@ It includes the classification codes/models in Process 2.
 
 - Matching title_signal
 
-This folder provides codes for the matching (title vs. CV/GCD) experiment. 
+This folder provides codes for the matching (title vs. CV/GCD) experiment. In this part, only Process 2 (CV classification) and Process 3 (GCD classification) involve.
