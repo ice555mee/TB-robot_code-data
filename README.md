@@ -38,7 +38,6 @@ Here, the simple testing code was to review the reproducibility of the codes.
 
 The models used in this study are located here in one place to easy access.
 
-![titlle vs signal_white bg](https://user-images.githubusercontent.com/120438949/208585406-b72b6385-783f-4aea-a054-3a2ab0ff7135.png)
 
 ## To run the prediction
 - Open folder 'Test_prediction' in master branch
