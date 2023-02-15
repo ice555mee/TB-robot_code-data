@@ -5,6 +5,7 @@ This repository is composed of 3 main folders as described in Files introduction
 ## To run the prediction
 - Open folder 'Test_prediction' in master branch
 - User can clone this repository on your PC and set the unvironment according to the requirement listed in file : requirementice.txt. All models (including file.py, file.h5, file.json) are located in master branch of this repository. 
+## Interactive channel
  Mreover, the interactive website was built based on our developed models: http://supercapacitor-battery-artificialintelligence.vistec.ac.th/) 
  
 ![Fig 3](https://user-images.githubusercontent.com/120438949/208368176-1fccebe0-250b-4e53-b4f6-4fc655d12c06.png)
