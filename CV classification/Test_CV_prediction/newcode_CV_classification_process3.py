@@ -46,9 +46,9 @@ with open('history_model', 'rb') as file:
 predict_model = load_model(filepath)
 
 
-image_path = r'C:\Users\ice_d\Desktop\Python\Install\unknownCV\0_0_0.51_10.107_2_1_27122.jpeg'
+image_path = r'C:\Users\ice_d\Documents\Postdoc\Coding\Machine learning\Pseudo S battery\TB-robot_code-data\CV classification\Test_CV_prediction\unknownCV\0_0_0.51_10.107_2_1_27122.jpeg'
 # new Image directory
-newdirec= r'C:\Users\ice_d\Desktop\Test_run\resultCV'
+newdirec= r'C:\Users\ice_d\Documents\Postdoc\Coding\Machine learning\Pseudo S battery\TB-robot_code-data\CV classification\Test_CV_prediction\resultCV'
 newloca=os.chdir(newdirec)  
 # New filename
 newfilename = 'predicted'
