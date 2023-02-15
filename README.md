@@ -1,6 +1,6 @@
 # TB-robot_code-data
 TB robot classifiaction model was built based on ResNet50 architecture and trained with our datasets to be used for CV and GCD classification as shown in Figure 3. 
-This repository is composed of 3 main folders as described in Files introduction.
+This repository is composed of 3 main folders as described in Files description.
 
 ## To run the prediction
 - Open folder 'Test_prediction' in master branch
@@ -16,7 +16,7 @@ Process 3, respectively. (b) The outputs from Process 3 are used in this final c
 to obtain the pseudocapacitive tendency based on percentage confidence rating of the
 prediction. (c) Table of processes, inputs and outputs performed/used to obtain these results.
 
-## Files introduction
+## Files description
 
 - CV Classification
 
