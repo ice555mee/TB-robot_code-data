@@ -33,11 +33,11 @@ It includes the classification codes/models in Process 2.
 This folder provides codes for the matching (title vs. CV/GCD) experiment.
 In this part, only Process 2 (CV classification) and Process 3 (GCD classification) involve.
 
--Test_prediction
+- Test_prediction
 
 Here, the simple testing code was to review the reproducibility of the codes.
 
--all_models
+- all_models
 
 The models used in this study are located here in one place to easy access.
 
