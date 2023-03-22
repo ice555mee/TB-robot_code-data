@@ -49,7 +49,8 @@ You may need to install the libralies/packages needed according to Python requir
 
   * Installing/running
   	 * Install these requirements by this following command
-  			```
+  	 
+  			```bash
 				pip install -r requirements.txt
 			```
 	 * Run prediction 
