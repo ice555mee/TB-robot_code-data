@@ -28,7 +28,7 @@ git clone   https://github.com/ice555mee/TB-robot_code-data.git
 ```
 
 ## Installation/running
-You may need to install the libralies/packages needed according to Python requirments.txt file.
+You may need to install the libraries/packages needed according to Python requirments.txt file.
 
 * Getting strt on running predeiction
   * Codes location 
