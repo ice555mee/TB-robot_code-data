@@ -6,7 +6,7 @@
 ## Table of Contents
 - [Branched](#branches)
 - [Clone the repository](#Clone-the-repository)
-- [Installation/running](#installation-running)
+- [Installation and running](#installation-and-running)
 - [Files description](#files-description)
 	- [Classification structure](#classificatio-structure)
     - [Part 1: CV Classification](#part-1-CV-Classification)
