@@ -16,7 +16,7 @@
 
 ## Branches
 
-This project has two branches: `main`, `master`, etc. which can be explained here
+This project has two branches: `main`, `master`, which can be explained here
 
 * `main` contains aggregate codes and datasets
 * `master` additionally contains codes that user can use for test running. All models (including file.py, file.h5, file.json) are located in master branch of this repository. 
