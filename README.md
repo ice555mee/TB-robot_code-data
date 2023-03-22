@@ -12,7 +12,7 @@
     - [Part 1: CV Classification](#part-1-CV-Classification)
 	- [Part 2: GCD Classification](#part-2-GCD-Classification)
 	- [Part 3: Matching title_signal](#part-3-Matching-title_signal)
-- [Interactive channel](#Interactive-channel)
+- [Website](#Website)
 
 ## Branches
 
@@ -106,10 +106,12 @@ You may need to install the libraries/packages according to Python requirments.t
 		```
 
 
-## Interactive channel
+## Website
  Moreover, the interactive website was built based on our developed models: 
  http://supercapacitor-battery-artificialintelligence.vistec.ac.th/. 
  This channel is a quick tool to access the classification for any users without running script or coding required.
+ - ![Untitled-1_mar2023](https://user-images.githubusercontent.com/120438949/226882505-ae0c568b-fc38-4135-9c43-2503bdc33d64.png)
+
 
 
 
