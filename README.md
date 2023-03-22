@@ -12,9 +12,7 @@
     - [Part 1: CV Classification](#part-1-CV-Classification)
 	- [Part 2: GCD Classification](#part-2-GCD-Classification)
 	- [Part 3: Matching title_signal](#part-3-Matching-title_signal)
-- [Interactive channel](#interactive-channel)
-
-- [Acknowledgments](#acknowledgments)
+- [Interactive channel](#Interactive-channel)
 
 ## Branches
 
@@ -59,13 +57,6 @@ You may need to install the libralies/packages needed according to Python requir
 ![Picture1](https://user-images.githubusercontent.com/120438949/226878251-15ce403e-4435-452c-b46a-f17846f2f700.png)
 
 			The result will show in the terminal with percentage confident of {type of material as Battery or Pseudocapacitor}.
-
-
-## Interactive channel
- Moreover, the interactive website was built based on our developed models: 
- http://supercapacitor-battery-artificialintelligence.vistec.ac.th/. 
- This channel is a quick tool to access the classification for any users without running script or coding required.
- 
 
 ## Files description
 
@@ -115,6 +106,10 @@ You may need to install the libralies/packages needed according to Python requir
 		```
 
 
+## Interactive channel
+ Moreover, the interactive website was built based on our developed models: 
+ http://supercapacitor-battery-artificialintelligence.vistec.ac.th/. 
+ This channel is a quick tool to access the classification for any users without running script or coding required.
 
 
 
