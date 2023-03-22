@@ -52,8 +52,8 @@ You may need to install the libraries/packages according to Python requirments.t
 		pip install -r requirements.txt
 		```
 	 * Run prediction 
-		Run files named 'CV_classification.py' or 'GCD_classification.py'
-			Before running, edit filepaths for the testing images (line 49) and the directory (line 51), where the user wants to put the results ashowing below:
+		- Run files named 'CV_classification.py' or 'GCD_classification.py'
+		- Before running, edit filepaths for the testing images (line 49) and the directory (line 51), where the user wants to put the results ashowing below:
 ![Picture1](https://user-images.githubusercontent.com/120438949/226878251-15ce403e-4435-452c-b46a-f17846f2f700.png)
 
 			The result will show in the terminal with percentage confident of {type of material as Battery or Pseudocapacitor}.
