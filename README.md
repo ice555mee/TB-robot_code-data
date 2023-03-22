@@ -28,9 +28,9 @@ git clone   https://github.com/ice555mee/TB-robot_code-data.git
 ```
 
 ## Installation/running
-You may need to install the libraries/packages needed according to Python requirments.txt file.
+You may need to install the libraries/packages according to Python requirments.txt file.
 
-* Getting strt on running predeiction
+* Getting start on running prediction
   * Codes location 
   Codes for prediction test are located in folder named 'Test_prediction' in main branch, where all model files are located in master branch follwing to the structure below: 
 	```
