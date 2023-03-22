@@ -32,7 +32,7 @@ You may need to install the libraries/packages according to Python requirments.t
 
 * Getting start on running prediction
   * Codes location 
-  	Codes for prediction test are located in folder named 'Test_prediction' in main branch, where all model files are located in master branch follwing to the structure below: 
+  	- Codes for prediction test are located in folder named 'Test_prediction' in main branch, where all model files are located in master branch follwing to the structure below: 
 	```
 		Main branch
 		└── Test_prediction
