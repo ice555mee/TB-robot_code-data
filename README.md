@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-- [Branched](#branches)
+- [Branches](#branches)
 - [Clone the repository](#Clone-the-repository)
 - [Installation and running](#installation-and-running)
 - [Files description](#files-description)
