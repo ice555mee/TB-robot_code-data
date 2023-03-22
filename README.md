@@ -48,9 +48,9 @@ You may need to install the libraries/packages according to Python requirments.t
   * Installing/running
   	 * Install these requirements by this following command
   	 
-  			```
-				pip install -r requirements.txt
-			```
+  		```
+		pip install -r requirements.txt
+		```
 	 * Run prediction 
 		Run files named 'CV_classification.py' or 'GCD_classification.py'
 			Before running, edit filepaths for the testing images (line 49) and the directory (line 51), where the user wants to put the results ashowing below:
