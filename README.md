@@ -9,7 +9,7 @@
 - [Installation/running](#installation-running)
 - [Files description](#files-description)
 	- [Classification structure](#classificatio-structure)
-    	- [Part 1: CV Classification](#part-1-CV-Classification)
+    - [Part 1: CV Classification](#part-1-CV-Classification)
 	- [Part 2: GCD Classification](#part-2-GCD-Classification)
 	- [Part 3: Matching title_signal](#part-3-Matching-title_signal)
 - [Interactive channel](#interactive-channel)
