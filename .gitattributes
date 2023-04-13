@@ -1,1 +1,4 @@
 Test_prediction/** filter=lfs diff=lfs merge=lfs -text
+UnknownCVall filter=lfs diff=lfs merge=lfs -text
+UnknownCVall/* filter=lfs diff=lfs merge=lfs -text
+UnknownCVall/** filter=lfs diff=lfs merge=lfs -text
